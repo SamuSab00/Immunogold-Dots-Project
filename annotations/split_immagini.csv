@@ -1,0 +1,18 @@
+id_immagine,classe_calibrazione,split
+SA-MAG_X10k_JEM-1400 Flash_22440,classe_7,test
+SA-MAG_X10k_JEM-1400 Flash_22480,classe_7,train
+SA-MAG_X12k_JEM-1400 Flash_22429,classe_6,val
+SA-MAG_X12k_JEM-1400 Flash_22484,classe_6,train
+SA-MAG_X15k_JEM-1400 Flash_22427,classe_5,test
+SA-MAG_X15k_JEM-1400 Flash_22478,classe_5,train
+SA-MAG_X15k_JEM-1400 Flash_22598,classe_5,val
+SA-MAG_X20k_JEM-1400 Flash_22447,classe_4,train
+SA-MAG_X25k_JEM-1400 Flash_22433,classe_3,test
+SA-MAG_X25k_JEM-1400 Flash_22438,classe_3,train
+SA-MAG_X3000_JEM-1400 Flash_22441,classe_10,train
+SA-MAG_X30k_JEM-1400 Flash_22426,classe_2,val
+SA-MAG_X30k_JEM-1400 Flash_22562,classe_1,train
+SA-MAG_X30k_JEM-1400 Flash_22644,classe_2,train
+SA-MAG_X6000_JEM-1400 Flash_22424,classe_9,val
+SA-MAG_X6000_JEM-1400 Flash_22467,classe_9,train
+SA-MAG_X8000_JEM-1400 Flash_22612,classe_8,train
