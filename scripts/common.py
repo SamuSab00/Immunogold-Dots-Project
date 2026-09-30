@@ -37,5 +37,5 @@ def log(msg):
 __all__ = [
     'os', 're', 'datetime', 'np', 'pd', 'torch', 'Path', 'Image',
     'gaussian_filter', 'blob_log', 'display',
-    'paths', 'device', 'log', 'base', 'nn', 'F'
+    'paths', 'device', 'log', 'base', 'nn', 'F', 'plt'
 ]
